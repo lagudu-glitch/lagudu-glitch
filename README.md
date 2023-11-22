@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+BS CompE @ Purdue University
+- Interested in Computer Architecture & Digital Circuit Design
+- ✉️ Reach me: vlagudu@purdue.edu
+- 😀 He/Him
